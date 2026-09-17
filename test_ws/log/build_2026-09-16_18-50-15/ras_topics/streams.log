@@ -1,0 +1,41 @@
+[6.180s] Invoking command in '/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/src/ras_topics': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ras_topics build --build-base /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build install --record /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/install.log --install-scripts $base/lib/ras_topics --single-version-externally-managed install_data
+[7.621s] running egg_info
+[7.621s] creating ../../build/ras_topics/ras_topics.egg-info
+[7.737s] writing ../../build/ras_topics/ras_topics.egg-info/PKG-INFO
+[7.738s] writing dependency_links to ../../build/ras_topics/ras_topics.egg-info/dependency_links.txt
+[7.748s] writing entry points to ../../build/ras_topics/ras_topics.egg-info/entry_points.txt
+[7.749s] writing requirements to ../../build/ras_topics/ras_topics.egg-info/requires.txt
+[7.755s] writing top-level names to ../../build/ras_topics/ras_topics.egg-info/top_level.txt
+[7.756s] writing manifest file '../../build/ras_topics/ras_topics.egg-info/SOURCES.txt'
+[7.947s] reading manifest file '../../build/ras_topics/ras_topics.egg-info/SOURCES.txt'
+[7.951s] writing manifest file '../../build/ras_topics/ras_topics.egg-info/SOURCES.txt'
+[7.954s] running build
+[7.955s] running build_py
+[7.955s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build
+[7.956s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib
+[7.956s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics
+[7.957s] copying ras_topics/subscriber.py -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics
+[7.957s] copying ras_topics/__init__.py -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics
+[7.958s] copying ras_topics/publisher.py -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics
+[7.959s] running install
+[7.992s] running install_lib
+[8.099s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics
+[8.101s] copying /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics/subscriber.py -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics
+[8.108s] copying /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics/__init__.py -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics
+[8.111s] copying /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build/lib/ras_topics/publisher.py -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics
+[8.114s] byte-compiling /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics/subscriber.py to subscriber.cpython-312.pyc
+[8.115s] byte-compiling /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics/__init__.py to __init__.cpython-312.pyc
+[8.115s] byte-compiling /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics/publisher.py to publisher.cpython-312.pyc
+[8.116s] running install_data
+[8.129s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/share/ament_index
+[8.130s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/share/ament_index/resource_index
+[8.130s] creating /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/share/ament_index/resource_index/packages
+[8.131s] copying resource/ras_topics -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/share/ament_index/resource_index/packages
+[8.136s] copying package.xml -> /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/share/ras_topics
+[8.137s] running install_egg_info
+[8.223s] Copying ../../build/ras_topics/ras_topics.egg-info to /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages/ras_topics-0.0.0-py3.12.egg-info
+[8.225s] running install_scripts
+[8.881s] Installing publisher_node script to /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/ras_topics
+[8.885s] Installing subscriber_node script to /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/ras_topics
+[8.890s] writing list of installed files to '/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/install.log'
+[9.070s] Invoked command in '/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/src/ras_topics' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/install/ras_topics/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ras_topics build --build-base /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/build install --record /home/elsanty2703r/Descargas/RAS_Javeriana/test_ws/build/ras_topics/install.log --install-scripts $base/lib/ras_topics --single-version-externally-managed install_data
