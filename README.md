@@ -1,2 +1,2 @@
 # ROS2
-varios work space de ros2
+varios workspace de ros2
